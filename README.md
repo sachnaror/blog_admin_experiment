@@ -45,3 +45,30 @@ We're not really sure why we added this section, but we thought it would be funn
 ## Conclusion
 
 We hope you enjoy using this blog app as much as we enjoyed building it.  Now go forth and create some amazing content!
+
+```
+
+├── blog_admin_experiment/
+│   ├── requirements.txt
+│   ├── db.sqlite3
+│   ├── README.md
+│   ├── .env
+│   ├── manage.py
+│   ├── blog_admin_experiment/
+│   │   ├── asgi.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   ├── blog/
+│   │   ├── models.py
+│   │   ├── apps.py
+│   │   ├── admin.py
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   └── views.py
+│   │   ├── templates/
+│   │   │   ├── blog_list.html
+│   │   │   ├── base.html
+│   │   │   └── blog_detail.html
+
+```

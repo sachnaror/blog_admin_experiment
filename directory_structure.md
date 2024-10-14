@@ -18,4 +18,5 @@
 │   │   └── views.py
 │   │   ├── templates/
 │   │   │   ├── blog_list.html
-│   │   │   └── base.html
+│   │   │   ├── base.html
+│   │   │   └── blog_detail.html
